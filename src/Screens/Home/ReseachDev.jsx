@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Box, Grid, Typography, useMediaQuery, useTheme } from "@mui/material";
-import Research from "../../assets/research.png";
+import Research from "../../assets/Research.png";
 
 const ResearchDev = () => {
   const [animated, setAnimated] = useState(false);
